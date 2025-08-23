@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Change BOT language",
 	commandCategory: "System",
-	usages: "[vi] [en]",
+	usages: "[vi] [en] ",
 	cooldowns: 5
 };
 
@@ -23,7 +23,7 @@ module.exports.run = async ({ api, event, args }) => {
         case "english":
         case "en":
             {
-                return api.sendMessage(`Language has been converted to English`, threadID, () => global.config.language = "en"); 
+                return api.sendMessage(`Language has been converted to English,bangla`, threadID, () => global.config.language = "en"); 
             }
             break;
     
