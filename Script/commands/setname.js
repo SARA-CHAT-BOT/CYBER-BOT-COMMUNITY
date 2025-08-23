@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
 	description: "Change the nickname in your group or the person you tag",
 	commandCategory: "Box Chat",
-	usages: "[name]",
+	usages: "[〖 . 〗 ➺ ♡𝗦ᴀ𝗥ᴀ𝗕ʙᴢ0.2♡]",
 	cooldowns: 3
 };
 
