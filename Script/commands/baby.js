@@ -2,7 +2,7 @@ const axios = require("axios");
 const simsim = "https://cyber-simsimi.onrender.com";
 
 module.exports.config = {
- name: "baby",
+ name: "Sara baby",
  version: "1.0.1",
  hasPermssion: 0,
  credits: "ULLASH",
