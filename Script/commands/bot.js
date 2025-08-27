@@ -32,8 +32,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("type /help", threadID);
    };
   
-   if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simsimi")) {
-     return api.sendMessage("simsimi কমান্ড এড় নাই টাইপ করুন baby", threadID);
+   if ((event.body.toLowerCase() == "sam") || (event.body.toLowerCase() == "simsimi")) {
+     return api.sendMessage(" Yes bby 😘", threadID);
    };
   
    if ((event.body.toLowerCase() == "ওই কিরে") || (event.body.toLowerCase() == "oi keray") ||(event.body.toLowerCase() == "...") || (event.body.toLowerCase() == "...")) {
@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Jayed") || (event.body.toLowerCase() == "@Jayed") || (event.body.toLowerCase() == "@Jayed khanッ") || (event.body.toLowerCase() == "জিসান")) {
+  if ((event.body.toLowerCase() == "@Jayed Khan") || (event.body.toLowerCase() == "@Jayed") || (event.body.toLowerCase() == "@Jayed khanッ") || (event.body.toLowerCase() == "জিসান")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -71,7 +71,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
-     return api.sendMessage("He is Jisan ッ❤️ তাকে সবাই জিসাম নামে  চিনে🤙", threadID);
+     return api.sendMessage("He is Jisan ッ❤️ তাকে সবাই জিসান নামে  চিনে🤙", threadID);
    };
 
    if ((event.body.toLowerCase() == "ai") || (event.body.toLowerCase() == "Ai")) {
@@ -107,7 +107,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস জিসান এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "@MD Shiam Tafeder ") || (event.body.toLowerCase() == "Sara")) {
+  if ((event.body.toLowerCase() == "@Jayed Khan ") || (event.body.toLowerCase() == "Sara")) {
      return api.sendMessage("🥰-সারা🌺 আমার বস জিসানের বউ লাগে 😠🥰⛏️", threadID);
    };
 
@@ -139,7 +139,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("️এন থেকে সর দুরে গিয়া মর😒", threadID);
    };
 
-   if ((event.body.toLowerCase() == "moriom") || (event.body.toLowerCase() == "ex")) {
+   if ((event.body.toLowerCase() == "Anika") || (event.body.toLowerCase() == "ex")) {
      return api.sendMessage("️Kiss Randi Ka Name Le Ke Mood Khrab Kr Diya.🙄 Dubara Naam Mat Lena Iska", threadID);
    };
 
